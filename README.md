@@ -1,4 +1,4 @@
-# SpringProject
+# BrandSystem
 The final spring boot course project
 
 
