@@ -12,7 +12,8 @@ System built by Spring Boot java framework
 
 Class Diagram
 
-![Class Digram drawio](https://user-images.githubusercontent.com/88738441/209143009-03c34270-6133-44e9-a7a0-e9a3bd0b6220.png)
+![Class Digram drawio (1)](https://user-images.githubusercontent.com/88738441/209148334-2fe8e538-961c-45db-abac-75d069af6099.png)
+
 
 https://app.getpostman.com/join-team?invite_code=512d2e70044f767ed4439020b0e2bd0c&target_code=a23b6f03198a7f79350d704a71ad3e93
 
